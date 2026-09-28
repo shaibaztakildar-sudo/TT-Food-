@@ -1,0 +1,6 @@
+{
+  "name": "TT Food Delivery",
+  "description": "Complete production-ready food delivery platform with Customer, Seller, Rider, and Admin roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

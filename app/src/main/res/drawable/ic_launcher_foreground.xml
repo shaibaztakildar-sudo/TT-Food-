@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Food Cloche Top Handle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 A4,4 0 1,0 54,34 A4,4 0 1,0 54,26 Z" />
+    
+    <!-- Cloche Dome / Delivery Bag Top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,46 C32,36 41,32 54,32 C67,32 76,36 76,46 L32,46 Z" />
+    
+    <!-- Serving Platter / Base Line -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M27,47 L81,47 C82.5,47 83,48 83,49 C83,50 82,51 80.5,51 L27.5,51 C26,51 25,50 25,49 C25,48 25.5,47 27,47 Z" />
+        
+    <!-- Delivery Bag Body below Platter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,52 L77,52 L73,80 C72.5,82.5 70.5,84 68,84 L40,84 C37.5,84 35.5,82.5 35,80 L31,52 Z" />
+        
+    <!-- TT Monogram in Bag Body -->
+    <!-- First 'T' -->
+    <path
+        android:fillColor="#E23744"
+        android:pathData="M40,58 L50,58 L50,61 L46.5,61 L46.5,76 L43.5,76 L43.5,61 L40,61 Z" />
+        
+    <!-- Second 'T' -->
+    <path
+        android:fillColor="#E23744"
+        android:pathData="M57,58 L67,58 L67,61 L63.5,61 L63.5,76 L60.5,76 L60.5,61 L57,61 Z" />
+
+    <!-- Fast Speed dashes to the left -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M22,41 L27,41 C27.8,41 28,42 28,42.5 C28,43 27.8,44 27,44 L22,44 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M18,48 L23,48 C23.8,48 24,49 24,49.5 C24,50 23.8,51 23,51 L18,51 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M24,55 L28,55 C28.8,55 29,56 29,56.5 C29,57 28.8,58 28,58 L24,58 Z" />
+</vector>
